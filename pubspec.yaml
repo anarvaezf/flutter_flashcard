@@ -1,0 +1,28 @@
+name: colored_flashcard
+description: A customizable Flutter flashcard widget with flip animations, auto-fit text, color contrast, and watermarks.
+version: 0.1.1
+homepage: https://github.com/anarvaezf/flutter_flashcard
+repository: https://github.com/anarvaezf/flutter_flashcard
+issue_tracker: https://github.com/anarvaezf/flutter_flashcard/issues
+topics:
+  - flutter
+  - widget
+  - education
+  - ui
+  - cards
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^3.0.2
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,10 @@
+# .pubignore
+.dart_tool/
+build/
+.DS_Store
+coverage/
+.vscode/
+.idea/
+*.iml
+
+example/build/

@@ -1,0 +1,55 @@
+# Misc
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+.gradle/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code related
+.vscode/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+
+# Flutter/Dart/Pub related
+build/
+flutter_*.png
+linked_*.ds
+coverage/
+android/.gradle/
+android/captures/
+android/app/release/
+ios/Flutter/.symlinks/
+ios/Pods/
+ios/Runner/GeneratedPluginRegistrant.*
+macos/Flutter/ephemeral/
+web/manifest.json
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Exceptions
+!/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+
+.dart_tool/
+build/
+coverage/
+.DS_Store
+*.iml
+.idea/
+.vscode/
